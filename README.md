@@ -1,2 +1,2 @@
 # mips
-mips 32 bit 5 stage pipelined processor with data and control hazard management
+Designed and simulated 32 bit MIPS pipeline processor with data and control hazard management using logisim.
